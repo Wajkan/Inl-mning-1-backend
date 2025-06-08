@@ -1,0 +1,48 @@
+{
+  "chain": [
+    {
+      "timestamp": 1,
+      "data": [],
+      "difficulty": 3,
+      "nonce": 0,
+      "hash": "#1",
+      "previousHash": "#####"
+    },
+    {
+      "id": "158d7d47b5284e959b2c7317e9d62723",
+      "timestamp": 1749408894302,
+      "hash": "000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a",
+      "previousHash": "#1",
+      "data": {
+        "data": {
+          "title": "Casino",
+          "license": "Swedish",
+          "paymentMethods": "Swish",
+          "registrationYear": 2020,
+          "id": "9066d55635e24541a5964593e8362dda"
+        }
+      },
+      "nonce": 255,
+      "difficulty": 2
+    },
+    {
+      "id": "e8216ae27a2641c1b413d88eb52a465a",
+      "timestamp": 1749408925069,
+      "hash": "0139a5bc2818c02625ae753707e4e32010cb602dca8e42585135ccae4852657b",
+      "previousHash": "000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a",
+      "data": {
+        "data": {
+          "title": "Hajper",
+          "license": "Swedish",
+          "paymentMethods": "Swish",
+          "registrationYear": 2020,
+          "id": "6253d8e9e8674213a92c280fcaf5b2f6"
+        }
+      },
+      "nonce": 19,
+      "difficulty": 1
+    }
+  ],
+  "length": 3,
+  "lastUpdated": "2025-06-08T18:55:25.069Z"
+}

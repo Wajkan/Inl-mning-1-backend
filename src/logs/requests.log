@@ -1,0 +1,57 @@
+
+        Method: GET
+        Url: /api/v1/casinos
+        Date: 2025-06-08
+        Time: 20:54:33
+        Status: 200
+        Duration: 1ms
+        Response: {"success":true,"statusCode":200,"block":[{"timestamp":1,"data":[],"difficulty":3,"nonce":0,"hash":"#1","previousHash":"#####"},{"id":"e35122698d1e4ae48291fe0bb28d2815","timestamp":1749406405897,"hash":"00dd42a37565259bf359c93db61c2ae020eceb1f756713112cec008d0a9d3bf6","previousHash":"#1","data":{"data":{"title":"Leovegas","license":"Swedidsh","paymentMethods":"Swish","registrationYear":2020,"id":"de06fd52f5e44e6197c32bea49f8d68b"}},"nonce":32,"difficulty":2},{"id":"8c0a085c4b64445ca07c7f350066ad9c","timestamp":1749406428185,"hash":"059b723f34a54b0515971dd9ae517c1ce00ec81dfc6ffb7336280a234ff613d1","previousHash":"00dd42a37565259bf359c93db61c2ae020eceb1f756713112cec008d0a9d3bf6","data":{"data":{"title":"Hajper","license":"Swedidsh","paymentMethods":"Swish","registrationYear":2020,"id":"d3535fa7493e47a1b6761004eb7501dc"}},"nonce":2,"difficulty":1},{"id":"756f8f9eaf1042dcb8cada4975ec9035","timestamp":1749408787161,"hash":"d90b019ee38ab8106eda71e0f3e9f8baa1cfaf242ace4533e5852d25b554002e","previousHash":"059b723f34a54b0515971dd9ae517c1ce00ec81dfc6ffb7336280a234ff613d1","data":{"data":{"title":"Hajper","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"cc038a72fa714f889e34a46de2a6db9c"}},"nonce":1,"difficulty":0},{"id":"8434d0c60fae4037a668af7d236ea803","timestamp":1749408840580,"hash":"0fd13d155ee74c0e63fd5a26035ec3a70128c711dfb45d21c8c5fbff0930a8a2","previousHash":"d90b019ee38ab8106eda71e0f3e9f8baa1cfaf242ace4533e5852d25b554002e","data":{"data":{"title":"Casino","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"4346b2bdf1034f77839452019dd674a9"}},"nonce":9,"difficulty":1}]}
+        
+        Method: POST
+        Url: /api/v1/casinos
+        Date: 2025-06-08
+        Time: 20:54:54
+        Status: 201
+        Duration: 5ms
+        Response: {"success":true,"statusCode":201,"block":[{"timestamp":1,"data":[],"difficulty":3,"nonce":0,"hash":"#1","previousHash":"#####"},{"id":"158d7d47b5284e959b2c7317e9d62723","timestamp":1749408894302,"hash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","previousHash":"#1","data":{"data":{"title":"Casino","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"9066d55635e24541a5964593e8362dda"}},"nonce":255,"difficulty":2}]}
+        
+        Method: GET
+        Url: /api/v1/casinos
+        Date: 2025-06-08
+        Time: 20:54:57
+        Status: 200
+        Duration: 1ms
+        Response: {"success":true,"statusCode":200,"block":[{"timestamp":1,"data":[],"difficulty":3,"nonce":0,"hash":"#1","previousHash":"#####"},{"id":"158d7d47b5284e959b2c7317e9d62723","timestamp":1749408894302,"hash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","previousHash":"#1","data":{"data":{"title":"Casino","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"9066d55635e24541a5964593e8362dda"}},"nonce":255,"difficulty":2}]}
+        
+        Method: POST
+        Url: /api/v1/casinos
+        Date: 2025-06-08
+        Time: 20:55:25
+        Status: 201
+        Duration: 3ms
+        Response: {"success":true,"statusCode":201,"block":[{"timestamp":1,"data":[],"difficulty":3,"nonce":0,"hash":"#1","previousHash":"#####"},{"id":"158d7d47b5284e959b2c7317e9d62723","timestamp":1749408894302,"hash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","previousHash":"#1","data":{"data":{"title":"Casino","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"9066d55635e24541a5964593e8362dda"}},"nonce":255,"difficulty":2},{"id":"e8216ae27a2641c1b413d88eb52a465a","timestamp":1749408925069,"hash":"0139a5bc2818c02625ae753707e4e32010cb602dca8e42585135ccae4852657b","previousHash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","data":{"data":{"title":"Hajper","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"6253d8e9e8674213a92c280fcaf5b2f6"}},"nonce":19,"difficulty":1}]}
+        
+        Method: GET
+        Url: /api/v1/casinos
+        Date: 2025-06-08
+        Time: 20:55:42
+        Status: 200
+        Duration: 1ms
+        Response: {"success":true,"statusCode":200,"block":[{"timestamp":1,"data":[],"difficulty":3,"nonce":0,"hash":"#1","previousHash":"#####"},{"id":"158d7d47b5284e959b2c7317e9d62723","timestamp":1749408894302,"hash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","previousHash":"#1","data":{"data":{"title":"Casino","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"9066d55635e24541a5964593e8362dda"}},"nonce":255,"difficulty":2},{"id":"e8216ae27a2641c1b413d88eb52a465a","timestamp":1749408925069,"hash":"0139a5bc2818c02625ae753707e4e32010cb602dca8e42585135ccae4852657b","previousHash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","data":{"data":{"title":"Hajper","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"6253d8e9e8674213a92c280fcaf5b2f6"}},"nonce":19,"difficulty":1}]}
+        
+        Method: GET
+        Url: /api/v1/casinos/e8216ae27a2641c1b413d88eb52a465a
+        Date: 2025-06-08
+        Time: 20:55:55
+        Status: 200
+        Duration: 1ms
+        Response: {"success":true,"statusCode":200,"block":{"id":"e8216ae27a2641c1b413d88eb52a465a","timestamp":1749408925069,"hash":"0139a5bc2818c02625ae753707e4e32010cb602dca8e42585135ccae4852657b","previousHash":"000b38134145d39dbf398ca6e8c5a579743cd53d67e10b5f422149ffc9dc461a","data":{"data":{"title":"Hajper","license":"Swedish","paymentMethods":"Swish","registrationYear":2020,"id":"6253d8e9e8674213a92c280fcaf5b2f6"}},"nonce":19,"difficulty":1}}
+        
+        Method: GET
+        Url: /api/v1/casinoss
+        Date: 2025-06-08
+        Time: 20:56:21
+        Status: 404
+        Duration: 1ms
+        Response: {"success":false,"status":"Not Found, vi hittar inte resursen som du frågar efter","statusCode":404,"message":"Resursen du söker finns ej, /api/v1/casinoss"}
+        
